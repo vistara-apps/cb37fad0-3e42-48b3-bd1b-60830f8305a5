@@ -1,14 +1,10 @@
 'use client';
 
-import { useMiniKit } from '@coinbase/minikit';
-import { useAuthenticate } from '@coinbase/onchainkit/minikit';
 import { User, Settings } from 'lucide-react';
 
 export function FrameHeader() {
-  const { context } = useMiniKit();
-  const { user } = useAuthenticate();
-
-  const displayName = context?.user?.displayName || user?.displayName || 'Creator';
+  // TODO: Implement proper user context hooks when available
+  const displayName = 'Creator';
 
   return (
     <header className="glass-effect rounded-lg p-4">
