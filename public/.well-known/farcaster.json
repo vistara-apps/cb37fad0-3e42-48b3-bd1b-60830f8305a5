@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "CreatorDAO Share",
+    "subtitle": "Built with Zara",
+    "description": "CreatorDAO Share is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://cb37fad03e4248b3bd1b60830f8305a5-975c.vercel.app",
+    "splashImageUrl": "https://cb37fad03e4248b3bd1b60830f8305a5-975c.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://cb37fad03e4248b3bd1b60830f8305a5-975c.vercel.app/image.png",
+    "tagline": "CreatorDAO Share",
+    "screenshotUrls": [
+      "https://cb37fad03e4248b3bd1b60830f8305a5-975c.vercel.app/screenshot.png",
+      "https://cb37fad03e4248b3bd1b60830f8305a5-975c.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://cb37fad03e4248b3bd1b60830f8305a5-975c.vercel.app/api/webhook"
+  }
+}

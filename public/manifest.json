@@ -20,7 +20,13 @@
       "https://creatordao-share.com/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["creator", "revenue-sharing", "community", "base", "miniapp"],
+    "tags": [
+      "creator",
+      "revenue-sharing",
+      "community",
+      "base",
+      "miniapp"
+    ],
     "heroImageUrl": "https://creatordao-share.com/hero.png",
     "tagline": "Empower creators with revenue-sharing and community engagement on Base",
     "ogTitle": "CreatorDAO Share",
